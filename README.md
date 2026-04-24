@@ -17,6 +17,7 @@ Brief description.
 Python, R, SQL, pandas, scikit-learn, XGBoost, Streamlit, GitHub, Jupyter, data visualization, predictive modeling.
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/daniel-fulk-80a88a240?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-Portfolio:
-Email: danielfulk317@gmail.com
+
+- [LinkedIn](https://www.linkedin.com/in/daniel-fulk-80a88a240)
+- Portfolio:
+- Email: danielfulk317@gmail.com
