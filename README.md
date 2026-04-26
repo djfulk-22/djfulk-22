@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Fulk
 
-I recently completed my Master's in Applied Data Science (MADS) from UNC Chapel hill. This program focused on the entire data life cycle, from data bases to data engineering, predictive modeling, and applied machine learning and deep learning models.
+I recently completed my Master's in Applied Data Science (MADS) from UNC Chapel Hill. The program focused on the full data life cycle, including databases, data engineering, predictive modeling, applied machine learning, and deep learning. Throughout my assignments and projects, I primarily focused on sports analytics, using data science methods to analyze team performance, player trends, predictive outcomes, and decision-making in sports contexts.
 
 ## Featured Projects
 
