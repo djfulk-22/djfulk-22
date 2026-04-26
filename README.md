@@ -32,5 +32,5 @@ Python, R, SQL, pandas, scikit-learn, XGBoost, Streamlit, GitHub, Jupyter, data 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-fulk-80a88a240)
-- Portfolio:
+- [Portfolio](https://djfulk-22.github.io/)
 - Email: danielfulk317@gmail.com
