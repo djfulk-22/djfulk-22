@@ -26,6 +26,12 @@ Collaborative machine learning project with Arvind Madan and Elliott Walker focu
 ### The Three-Point Effect: Analyzing the Relationship Between NBA Three-Point Shooting and Winning
 This project analyzes historical NBA team-level data to examine the relationship between three-point shooting and team success. Using year-over-year team statistics, it evaluates how three-point percentage, makes, and attempts relate to win percentage across NBA seasons.
 
+### Personal Portfolio Website
+Built a personal portfolio website using Quarto and GitHub Pages to showcase my data science projects, technical skills, academic background, and professional experiences. The site serves as a central location for my work in sports analytics, predictive modeling, data visualization, and applied data science.
+
+[View Portfolio Website](https://djfulk-22.github.io/)  
+[View GitHub Repository](https://github.com/djfulk-22/djfulk-22.github.io)
+
 ## Technical Skills
 Python, R, SQL, pandas, scikit-learn, XGBoost, Streamlit, GitHub, Jupyter, data visualization, predictive modeling.
 
